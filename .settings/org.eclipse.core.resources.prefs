@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//SensorBase/CarDetect/CarDetectSetting.java=GBK
+encoding//SensorBase/SensorBase/LMSConstValue.java=GBK
+encoding//SensorLayer/layer/dataLayer/RadarCalibration.java=GBK
+encoding//SensorLayer/layer/physicLayer/PhysicLayerSerialPort.java=GBK
+encoding//src/App/CarDetect.java=GBK
+encoding//src/AppBase/appBase/AppInit.java=GBK
+encoding//src/AppFrame/carDetect/CarDetectFrame.java=GBK
+encoding//src/AppFrame/carDetect/CarDetectFrameMainTab.java=GBK
+encoding//src/ThreeD/ThreeDMainThread.java=GBK
+encoding/<project>=GBK
